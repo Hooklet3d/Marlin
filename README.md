@@ -5,7 +5,7 @@
 Additional documentation can be found at [The Marlin Documentation Project](http://www.marlinfw.org/).
 Please test this firmware and inform us if it misbehaves in any way, volunteers are standing by!  Likewise, check out the master Marlin Firmware repo here: https://github.com/MarlinFirmware/Marlin 
 
-## Release Candidate -- Odin One MK1 RC2 (Mentos) - Mar '17
+## Release Candidate -- Odin One MK1 RC1 (Mentos) - Mar '17
 
 ## Recent Changes
 - RC2 - 22 Mar 2017
