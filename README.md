@@ -1,5 +1,5 @@
 # Odin One MK1 Firmware
-## Based on Marlin 3D Printer Firmware 
+## Based on the Marlin 3D Printer Firmware 
 <img align="top" width=175 src="https://github.com/Hooklet3d/OdinOne/blob/Mentos_RC/Dev_Docs/img/hooklet.concept4-BLK.png" /><img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
 For more info on the Odin One Project check out the main repo here:
