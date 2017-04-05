@@ -3,7 +3,7 @@
 <img align="top" width=175 src="https://github.com/Hooklet3d/OdinOne/blob/Mentos_RC/Dev_Docs/img/hooklet.concept4-BLK.png" /><img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
 Additional documentation can be found at [The Marlin Documentation Project](http://www.marlinfw.org/).
-Please test this firmware and inform us if it misbehaves in any way, volunteers are standing by!
+Please test this firmware and inform us if it misbehaves in any way, volunteers are standing by!  Likewise, check out the master Marlin Firmware repo here: https://github.com/MarlinFirmware/Marlin 
 
 ## Release Candidate -- Odin One MK1 RC2 (Mentos) - Mar '17
 
