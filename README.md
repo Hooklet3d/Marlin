@@ -8,7 +8,7 @@ Please test this firmware and inform us if it misbehaves in any way, volunteers 
 ## Release Candidate -- Odin One MK1 RC1 (Mentos) - Mar '17
 
 ## Recent Changes
-- RC2 - 22 Mar 2017
+- RC1 - 22 Mar 2017
   - Added printer Stats menu option
   - Adjusted some movement settings
   - improved ABL correct accuracy
