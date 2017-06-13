@@ -6,8 +6,12 @@ For more info on the Odin One Project check out the main repo here:
 
 https://github.com/Hooklet3d/OdinOne
 
+
+The latest "stable" release of Marlin is 1.0.2-2. Download earlier versions of Marlin on the [Releases page](https://github.com/MarlinFirmware/Marlin/releases).
+=======
 Additional documentation can be found at [The Marlin Documentation Project](http://www.marlinfw.org/).
 Please test this firmware and inform us if it misbehaves in any way, volunteers are standing by!  Likewise, check out the master Marlin Firmware repo here: https://github.com/MarlinFirmware/Marlin 
+
 
 ## Release Candidate -- Odin One MK1 RC1 (Mentos) - Mar '17
 
